@@ -6,3 +6,7 @@
   text-align: center;
 }
 
+.footer :global(a) {
+  color: currentColor;
+}
+
